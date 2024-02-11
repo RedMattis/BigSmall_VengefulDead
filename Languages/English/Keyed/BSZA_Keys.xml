@@ -1,0 +1,22 @@
+<LanguageData>
+  <BSZA_VengefulDead>Vengeful Dead</BSZA_VengefulDead>
+  <BSZA_DefaultSettings>Reset to defaults</BSZA_DefaultSettings>
+  <BSZA_DeadRisingChance>"Restless Dead" trigger chance</BSZA_DeadRisingChance>
+  <BSZA_ZombieApocalypseChance>"Unliving Nightmare" trigger chance</BSZA_ZombieApocalypseChance>
+  <BSZA_ReturnChance>Return chance (during Restless Dead)</BSZA_ReturnChance>
+  <BSZA_ReturnChanceApoc>Return chance (during Unliving Nightmare)</BSZA_ReturnChanceApoc>
+  <BSZA_ReturnChanceColonist>Additional return chance for colonists (can trigger if the above fail)</BSZA_ReturnChanceColonist>
+  <BSZA_PychoticWanderingChance>"Psychotic Wandering" mental state trigger chance</BSZA_PychoticWanderingChance>
+  <BSZA_BerserkChance>Manhunter mental state trigger chance</BSZA_BerserkChance>
+  <BSZA_BerserkChanceApoc>Manhunter trigger chance (during Unliving Nightmare)</BSZA_BerserkChanceApoc>
+  <BSZA_BerserkLoseFaction>Chance that rehabilitation will be needed if returned berserk/manhunter.</BSZA_BerserkLoseFaction>
+  <BSZA_BerserkLoseFactionApoc>Chance that rehabilitation will be needed if returned berserk/manhunter chance (Unliving Nightmare)</BSZA_BerserkLoseFactionApoc>
+  <BSZA_BerserkPermanent>Chance that the manhunter state is permanent</BSZA_BerserkPermanent>
+  <BSZA_BerserkPermanentApoc>Chance that the manhunter state is permanent (Unliving Nightmare)</BSZA_BerserkPermanentApoc>
+  <BSZA_Manhunter>Chance to berserk (instead of manhunter)</BSZA_Manhunter>
+
+  <BSZA_Events>Events</BSZA_Events>
+  <BSZA_ReanimationChance>Reanimation Chances</BSZA_ReanimationChance>
+  <BSZA_MentalStates>Mental States</BSZA_MentalStates>
+
+</LanguageData>

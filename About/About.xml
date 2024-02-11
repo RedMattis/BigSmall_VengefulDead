@@ -1,0 +1,45 @@
+<ModMetaData>
+	<name>Vengeful Dead</name>
+	<author>RedMattis</author>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+  <packageId>RedMattis.Undead.ZombieApoc</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Ludeon.RimWorld.Biotech</packageId>
+			<displayName>Biotech</displayName>
+    </li>
+    <li>
+      <packageId>RedMattis.BigSmall.Core</packageId>
+      <displayName>Big and Small Genes</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2920751126</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>RedMattis.Undead</packageId>
+      <displayName>Vampires, Demons, and the Undead</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2926556467</steamWorkshopUrl>
+    </li>
+    
+	</modDependencies>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>brrainz.harmony</li>
+    <li>RedMattis.BigSmall.Core</li>
+    <li>RedMattis.Undead</li>
+	</loadAfter>
+  <loadBefore>
+  </loadBefore>
+  <incompatibleWith>
+	</incompatibleWith>
+	
+	<description>Highly Configurable Undying Disaster
+
+    The returned are primarily meant to model the kind of "Vengeful Revenant" type of undead rather than the brain-eating zombie variety.
+    
+    You absolutely can combine this with Zombieland. The Returned from this mod will be ignored by the zombies, and those about to turn into Returned will not rise as zombies.
+    </description>
+</ModMetaData>
