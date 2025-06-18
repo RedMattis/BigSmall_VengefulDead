@@ -1,0 +1,8 @@
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\Assemblies\BS_ZombieApocalypse.dll
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\Source\BS_ZombieApocalypse\obj\Debug\BS_ZombieApocalypse.csproj.AssemblyReference.cache
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\Source\BS_ZombieApocalypse\obj\Debug\BS_ZombieApocalypse.csproj.CoreCompileInputs.cache
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\Source\BS_ZombieApocalypse\obj\Debug\BS_ZombieApocalypse.dll
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\1.5\Assemblies\BS_ZombieApocalypse.dll
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\1.5\Source\BS_ZombieApocalypse\obj\Debug\BS_ZombieApocalypse.csproj.AssemblyReference.cache
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\1.5\Source\BS_ZombieApocalypse\obj\Debug\BS_ZombieApocalypse.csproj.CoreCompileInputs.cache
+C:\Games\Steam\steamapps\common\RimWorld\Mods\Big and Small - Zombie Apocalypses\1.5\Source\BS_ZombieApocalypse\obj\Debug\BS_ZombieApocalypse.dll
